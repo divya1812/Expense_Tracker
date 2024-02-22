@@ -1,0 +1,13 @@
+{
+  "title": "Onkosten Tracker",
+  "Balancetitle": "Je balans",
+  "Income": "Inkomen",
+  "Expense": "Kosten",
+  "History": "Geschiedenis",
+  "Add new transaction": "Nieuwe transactie toevoegen",
+  "Text": "Texte",
+  "Enter text": "Voer tekst in",
+  "Amount": "Bedrag",
+  "negative_expense_positive_income": "(negatief - kosten, positief - inkomen)",
+  "Add transaction": "Transactie toevoegen"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Expense Tracker",
+  "Balancetitle": "Your Balance",
+  "Income": "Income",
+  "Expense": "Expense",
+  "History": "History",
+  "Add new transaction": "Add new transaction",
+  "Text": "Text",
+  "Enter text": "Enter text",
+  "Amount": "Amount",
+  "negative_expense_positive_income": "(negative - expense, positive - income)",
+  "Add transaction": "Add transaction"
+}
